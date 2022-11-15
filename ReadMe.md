@@ -1,7 +1,7 @@
 # Refit  Digest Authentication  
 using by @[CallumHoughton18](https://github.com/CallumHoughton18)  https://github.com/CallumHoughton18/csharp-dotnet-digest-authentication
 
-
+RefitDigestAuth [![NuGet](https://img.shields.io/nuget/v/RefitDigestAuth.svg?style=flat-square)](https://www.nuget.org/packages/RefitDigestAuth)
 
 
 
